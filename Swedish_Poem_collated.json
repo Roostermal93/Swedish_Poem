@@ -1,0 +1,28 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "aedba49d-3331-4da1-abda-e04ec067f74a",
+            "collectionId": "Swedish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Swedish/aedba49d-3331-4da1-abda-e04ec067f74a_sw_Female.mp4"
+        },
+        {
+            "id": "cc4cd9a9-b984-46c4-8ac6-d8c875085867",
+            "collectionId": "Swedish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Swedish/cc4cd9a9-b984-46c4-8ac6-d8c875085867_sw_Female.mp4"
+        },
+        {
+            "id": "bb0e9410-dcf0-49ba-a44d-2ef66a871b68",
+            "collectionId": "Swedish",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Swedish/bb0e9410-dcf0-49ba-a44d-2ef66a871b68_sw_Female.mp4"
+        }
+    ]
+}
